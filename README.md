@@ -1,6 +1,6 @@
-#A simple To-Do WebApp for daily use
+<b>A simple To-Do WebApp for daily use</b>
 
-##Features:
+Features:
 •	Type your reminder or a to-do in the Text Box
 
 •	Press ‘Enter’ on your keyboard or click on the Submit Button on the screen
@@ -10,14 +10,14 @@
 •	Click on the REMOVE button if you don’t want the item in the list anymore
 		The REMOVE button is displayed when you hover over the Task with your mouse
 
-##Technologies used:
+Technologies used:
 •	React: https://reactjs.org/
 
 •	rc-checkbox: https://www.npmjs.com/package/rc-checkbox
 
 •	CSS Architecture – Tachyons: https://www.npmjs.com/package/tachyons
 
-##Future possibilities:
+Future possibilities:
 •	Set timer for each task
 
 •	Develop a back-end to store the list to access after deletion
