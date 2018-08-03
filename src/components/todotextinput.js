@@ -22,7 +22,7 @@ export default class Todotextinput extends React.Component {
             // return this.addTodo();
             this.props.addTodo(this.state.value)
 			this.setState({value: ''})
-            console.log("pressed enter")
+            // console.log("pressed enter")
         }
     }
 

@@ -27,14 +27,14 @@ class App extends Component {
         todos: todos,
         nextId: ++this.state.nextId
         })
-        console.log(this.state.nextId)
+        // console.log(this.state.nextId)
     } else {
             console.log("White spaces only")
     }    
   }
 
   removeTodo(id){
-    console.log("Removing", id)
+    // console.log("Removing", id)
     this.setState({
       todos: this.state.todos.filter((todo, index) => todo.id !== id)
     })
